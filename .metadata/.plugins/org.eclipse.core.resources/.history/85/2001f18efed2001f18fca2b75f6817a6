@@ -1,0 +1,19 @@
+package com.mvc.orm.dao;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.orm.hibernate5.HibernateTemplate;
+
+import com.mvc.orm.entity.User;
+
+public class UserDao implements UserDaoInterface {
+
+	@Autowired
+	private HibernateTemplate hibernateTemplate;
+	
+	@Override
+	public int savaUser(User user) {
+		int insertID = (Integer)this.hibernateTemplate.save(user);
+		return insertID;
+	}
+	
+}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Language\Advance Java\spring MVC\p5-register_form_mvc_orm\pom.xml"/>
+			<item value="C:\Language\Advance Java\spring MVC\p5-registration-mvc-orm"/>
+			<item value="C:\Language\Advance Java\spring MVC\p3-jspExpression-jstl"/>
+			<item value="C:\Language\Advance Java\spring MVC\p1-first"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.search.engine"/>
+			<item value="com.spring"/>
+			<item value="spring.mvc"/>
+			<item value="com.mvc"/>
+			<item value="com.mvc.pro"/>
+		</list>
+		<list key="groupId">
+			<item value="com.search.engine"/>
+			<item value="com.spring"/>
+			<item value="com.spingcasa"/>
+			<item value="spring.mvc"/>
+			<item value="com.mvc"/>
+			<item value="com.mvc.pro"/>
+		</list>
+		<list key="artifactId">
+			<item value="my_search_engine"/>
+			<item value="searchEngine_byMVC"/>
+			<item value="p6-redirection"/>
+			<item value="p5-register_form_mvc_orm"/>
+			<item value="p5-registerForm_withORM"/>
+			<item value="p5-registration-mvc-orm"/>
+			<item value="p5-registration-mcv-orm"/>
+			<item value="p4-sending-data-to-controller"/>
+			<item value="p3-jspExpre-jstl"/>
+			<item value="p4-jspExpre-JSTL"/>
+			<item value="p2-sending-data"/>
+			<item value="p1-first"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

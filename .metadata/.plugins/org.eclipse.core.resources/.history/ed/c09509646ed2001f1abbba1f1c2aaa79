@@ -1,0 +1,5 @@
+package org.spring.entity;
+
+public class User {
+
+}

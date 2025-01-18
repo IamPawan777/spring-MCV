@@ -1,0 +1,19 @@
+package mvc.spring.dao;
+
+import java.io.Serializable;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.orm.hibernate5.HibernateTemplate;
+
+import mvc.spring.entity.User;
+
+public class UserDao {
+	
+	@Autowired
+	private HibernateTemplate hibernateTemplate;
+	
+	public int saveUser(User user) {
+		int i = (Integer)this.hibernateTemplate.save(user);
+		return i;
+	}	
+}

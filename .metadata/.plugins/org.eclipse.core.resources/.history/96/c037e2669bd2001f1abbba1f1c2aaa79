@@ -1,0 +1,5 @@
+package com.mvc.orm.entity;
+
+public class User {
+
+}

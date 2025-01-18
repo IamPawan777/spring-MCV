@@ -1,0 +1,169 @@
+
+Jan 16, 2025 02:56:14.50 NEW SESSION
+Jan 16, 2025 02:56:14.51 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 16, 2025 02:56:14.53 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 16, 2025 02:56:15.57 [11544:2140:0116/025615.575:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -102
+Jan 16, 2025 02:56:17.53 [11544:2140:0116/025617.537:ERROR:checkin_request.cc(242)] Check-in request got net error: -356
+Jan 16, 2025 02:56:17.53 [11544:2140:0116/025617.538:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 02:56:17.53 [11544:2140:0116/025617.538:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 02:56:17.54 [11544:2140:0116/025617.539:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 02:56:17.54 [11544:2140:0116/025617.539:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 02:56:44.36 [11544:2140:0116/025644.368:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -100
+Jan 16, 2025 02:56:45.55 [11544:2140:0116/025645.555:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 02:56:45.55 [11544:2140:0116/025645.557:ERROR:checkin_request.cc(242)] Check-in request got net error: -356
+Jan 16, 2025 02:56:45.56 [11544:2140:0116/025645.558:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 02:56:45.56 [11544:2140:0116/025645.559:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 02:56:45.56 [11544:2140:0116/025645.559:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 02:56:59.11 [11544:17252:0116/025659.112:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-356).
+Jan 16, 2025 02:56:59.11 [11544:17252:0116/025659.113:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-356).
+Jan 16, 2025 02:56:59.12 [11544:17252:0116/025659.119:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-356).
+Jan 16, 2025 02:56:59.12 [11544:17252:0116/025659.119:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-356).
+Jan 16, 2025 02:57:34.47 [11544:2140:0116/025734.476:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 02:57:36.92 [11544:2140:0116/025736.929:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -102
+Jan 16, 2025 02:57:38.92 [11544:2140:0116/025738.927:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 02:57:38.92 [11544:2140:0116/025738.929:ERROR:checkin_request.cc(242)] Check-in request got net error: -356
+Jan 16, 2025 02:57:44.81 [11544:2140:0116/025744.817:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 02:57:44.82 [11544:2140:0116/025744.818:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 02:59:04.96 [11544:2140:0116/025904.965:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 02:59:04.97 [11544:2140:0116/025904.970:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 02:59:22.72 [11544:2140:0116/025922.729:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 02:59:28.20 [11544:2140:0116/025928.204:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -100
+Jan 16, 2025 02:59:35.26 [11544:2140:0116/025935.267:ERROR:checkin_request.cc(242)] Check-in request got net error: -356
+Jan 16, 2025 02:59:35.27 [11544:2140:0116/025935.270:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:02:33.40 [11544:2140:0116/030233.405:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:02:42.91 [11544:2140:0116/030242.910:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:02:42.91 [11544:2140:0116/030242.911:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:02:43.50 [11544:2140:0116/030243.508:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -102
+Jan 16, 2025 03:02:48.32 [11544:2140:0116/030248.322:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:03:06.28 [11544:2140:0116/030306.285:ERROR:checkin_request.cc(242)] Check-in request got net error: -356
+Jan 16, 2025 03:10:09.94 [11544:2140:0116/031009.941:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:10:13.80 [11544:2140:0116/031013.804:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -100
+Jan 16, 2025 03:10:26.67 [11544:2140:0116/031026.675:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:10:26.67 [11544:17252:0116/031026.676:ERROR:sharing_service.cc(284)] Device registration failed with transient error
+Jan 16, 2025 03:10:26.67 [11544:2140:0116/031026.676:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:10:49.51 [11544:2140:0116/031049.517:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:11:08.08 [11544:2140:0116/031108.082:ERROR:checkin_request.cc(242)] Check-in request got net error: -356
+Jan 16, 2025 03:15:21.88 [11544:2140:0116/031521.883:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:15:48.12 [11544:2140:0116/031548.120:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:16:33.80 [11544:2140:0116/031633.799:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:18:09.63 [11544:2140:0116/031809.638:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:20:15.89 [11544:2140:0116/032015.890:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -102
+Jan 16, 2025 03:21:12.13 [11544:2140:0116/032112.130:ERROR:checkin_request.cc(242)] Check-in request got net error: -356
+Jan 16, 2025 03:22:12.33 [11544:2140:0116/032212.330:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:29:17.75 [11544:2140:0116/032917.751:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:29:17.75 [11544:17252:0116/032917.752:ERROR:sharing_service.cc(284)] Device registration failed with transient error
+Jan 16, 2025 03:30:15.94 [11544:2140:0116/033015.945:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -100
+Jan 16, 2025 03:31:16.17 [11544:2140:0116/033116.179:ERROR:checkin_request.cc(242)] Check-in request got net error: -356
+Jan 16, 2025 03:38:33.53 [11544:2140:0116/033833.535:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:39:04.03 [11544:2140:0116/033904.030:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:40:03.00 [11544:2140:0116/034003.004:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 03:40:18.06 [11544:2140:0116/034018.059:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -102
+Jan 16, 2025 03:41:20.18 [11544:2140:0116/034120.186:ERROR:checkin_request.cc(242)] Check-in request got net error: -356
+Jan 16, 2025 03:42:01.95 [11544:2140:0116/034201.949:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+
+Jan 16, 2025 13:33:28.90 NEW SESSION
+Jan 16, 2025 13:33:28.91 [4988:16400:0116/133328.900:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 16, 2025 13:33:29.66 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 16, 2025 13:33:29.66 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 16, 2025 13:33:56.50 [4988:16400:0116/133356.504:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 16, 2025 13:34:54.81 [4988:16400:0116/133454.817:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 16, 2025 13:36:41.32 [4988:16400:0116/133641.323:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 16, 2025 13:39:34.29 [4988:16400:0116/133934.290:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 16, 2025 13:46:18.98 [4988:16400:0116/134618.981:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Jan 16, 2025 16:44:21.10 NEW SESSION
+Jan 16, 2025 16:44:21.12 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 16, 2025 16:44:21.12 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 16, 2025 16:44:23.53 [1924:13596:0116/164423.535:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 16, 2025 16:44:26.58 [1924:13596:0116/164426.584:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 16:44:51.86 [1924:13596:0116/164451.865:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 16, 2025 16:45:07.90 [1924:13596:0116/164507.905:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 16:45:42.41 [1924:13596:0116/164542.412:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 16, 2025 16:46:02.93 [1924:13596:0116/164602.936:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 16:47:38.14 [1924:13596:0116/164738.147:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 16, 2025 16:47:59.18 [1924:13596:0116/164759.180:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 16:50:42.39 [1924:13596:0116/165042.399:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 16, 2025 16:51:33.91 [1924:13596:0116/165133.911:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 16:56:23.25 [1924:13596:0116/165623.254:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 16, 2025 16:59:31.10 [1924:13596:0116/165931.081:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 16, 2025 17:06:37.52 [1924:13596:0116/170637.523:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 16, 2025 17:16:46.59 [1924:13596:0116/171646.592:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 16, 2025 17:26:55.66 [1924:13596:0116/172655.660:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 16, 2025 17:37:09.91 [1924:13596:0116/173709.910:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 16, 2025 17:47:18.96 [1924:13596:0116/174718.965:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 16, 2025 17:57:22.03 [1924:13596:0116/175722.033:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 16, 2025 18:07:36.31 [1924:13596:0116/180736.312:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 16, 2025 18:55:54.40 [1924:13596:0116/185554.407:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 16, 2025 18:56:06.29 [1924:13596:0116/185606.297:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 16, 2025 19:06:19.91 [1924:13596:0116/190619.912:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 16, 2025 19:10:15.66 [1924:13596:0116/191015.659:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 16, 2025 19:10:27.55 [1924:13596:0116/191027.554:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 16, 2025 19:15:12.27 [1924:13596:0116/191512.270:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 16, 2025 19:15:14.77 [1924:13596:0116/191514.774:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -102
+Jan 16, 2025 19:15:52.39 [1924:13596:0116/191552.392:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -100
+Jan 16, 2025 19:26:39.46 [1924:13596:0116/192639.460:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 16, 2025 19:39:12.31 [1924:3424:0116/193912.319:ERROR:device_event_log_impl.cc(201)] [19:39:12.319] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Jan 17, 2025 13:51:37.22 NEW SESSION
+Jan 17, 2025 13:51:37.24 [9128:10888:0117/135137.226:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 17, 2025 13:51:40.42 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 17, 2025 13:51:40.44 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 17, 2025 13:52:11.14 [9128:10888:0117/135211.144:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 17, 2025 13:52:52.78 [9128:10888:0117/135252.786:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 17, 2025 13:54:28.52 [9128:10888:0117/135428.527:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 17, 2025 13:56:46.76 [9128:10888:0117/135646.766:ERROR:mcs_client.cc(748)] Received close command, resetting connection.
+Jan 17, 2025 13:58:01.39 [9128:10888:0117/135801.397:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 17, 2025 14:03:57.53 [9128:10888:0117/140357.530:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 17, 2025 15:31:32.76 [9128:2888:0117/153132.768:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jan 17, 2025 17:53:52.86 [9128:2888:0117/175352.866:ERROR:device_event_log_impl.cc(201)] [17:53:52.866] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 17, 2025 18:50:04.48 [9128:10888:0117/185004.479:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 17, 2025 19:33:48.84 [9128:10888:0117/193348.844:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 17, 2025 19:33:54.90 [9128:1576:0117/193354.907:ERROR:get_updates_processor.cc(267)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Jan 17, 2025 19:33:58.88 [9128:10888:0117/193358.881:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2025 19:33:59.27 [9128:2888:0117/193359.279:ERROR:device_event_log_impl.cc(201)] [19:33:59.279] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 17, 2025 20:52:36.62 [9128:10888:0117/205236.626:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 17, 2025 22:14:02.99 [9128:10888:0117/221402.993:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 17, 2025 22:43:26.80 [9128:10888:0117/224326.801:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 17, 2025 22:43:28.85 [9128:10888:0117/224328.853:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2025 22:43:29.37 [9128:2888:0117/224329.375:ERROR:device_event_log_impl.cc(201)] [22:43:29.375] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 17, 2025 23:13:58.86 [9128:10888:0117/231358.865:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 17, 2025 23:28:22.09 [9128:10888:0117/232822.097:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 17, 2025 23:28:47.82 [9128:10888:0117/232847.826:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 17, 2025 23:29:48.01 [9128:10888:0117/232948.010:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 17, 2025 23:31:17.08 [9128:10888:0117/233117.085:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 17, 2025 23:35:10.60 [9128:10888:0117/233510.603:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 17, 2025 23:42:26.37 [9128:10888:0117/234226.369:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 18, 2025 24:50:31.25 [9128:2888:0118/005031.245:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+
+Jan 18, 2025 12:21:39.95 NEW SESSION
+Jan 18, 2025 12:21:39.97 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 18, 2025 12:21:39.98 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 18, 2025 12:21:47.95 [13796:14796:0118/122147.951:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 18, 2025 12:21:51.00 [13796:14796:0118/122150.999:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 18, 2025 12:22:19.22 [13796:14796:0118/122219.228:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 18, 2025 12:22:20.31 [13796:14796:0118/122220.318:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 18, 2025 12:23:14.03 [13796:7820:0118/122314.034:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Jan 18, 2025 12:23:14.04 [13796:7820:0118/122314.039:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Jan 18, 2025 12:23:14.04 [13796:7820:0118/122314.042:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Jan 18, 2025 12:23:17.09 [13796:7820:0118/122317.095:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Jan 18, 2025 12:23:28.39 [13796:14796:0118/122328.390:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 18, 2025 12:23:29.00 [13796:14796:0118/122329.004:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 18, 2025 12:25:24.84 [13796:14796:0118/122524.841:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 18, 2025 12:25:25.04 [13796:14796:0118/122525.048:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 18, 2025 12:28:10.45 [13796:14796:0118/122810.452:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 18, 2025 12:28:37.48 [13796:14796:0118/122837.488:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 18, 2025 12:35:39.72 [13796:14796:0118/123539.721:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 18, 2025 12:36:14.31 [13796:14796:0118/123614.315:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Jan 18, 2025 12:45:42.77 [13796:14796:0118/124542.776:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 18, 2025 12:55:57.01 [13796:14796:0118/125557.017:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 18, 2025 13:06:00.08 [13796:14796:0118/130600.084:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 18, 2025 13:16:34.42 [13796:14796:0118/131634.428:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 18, 2025 13:16:55.96 [13796:14796:0118/131655.969:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 18, 2025 13:17:41.95 [13796:14796:0118/131741.950:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 18, 2025 13:19:19.73 [13796:14796:0118/131919.734:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 18, 2025 13:22:20.01 [13796:14796:0118/132220.016:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 18, 2025 13:28:14.75 [13796:14796:0118/132814.756:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 18, 2025 13:47:52.74 [13796:14796:0118/134752.747:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 18, 2025 14:28:03.70 [13796:14796:0118/142803.703:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 18, 2025 14:28:06.33 [13796:14796:0118/142806.337:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 18, 2025 14:31:52.57 [13796:7820:0118/143152.575:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost

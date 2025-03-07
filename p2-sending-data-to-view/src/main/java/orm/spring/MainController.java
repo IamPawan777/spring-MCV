@@ -11,6 +11,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class MainController {
 	
+	// Model........
 	@RequestMapping("/home")
 	public String home(Model model) {
 		model.addAttribute("name", "Pawan Bisht");
@@ -25,6 +26,7 @@ public class MainController {
 		return ("home");
 	}
 	
+	// ModelAndView......
 	@RequestMapping("/description")
 	public ModelAndView descriptionPage() {
 		ModelAndView model = new ModelAndView();
@@ -36,7 +38,7 @@ public class MainController {
 		list.add("Python");
 		model.addObject("course", list);
 		
-		model.setViewName("description");
+		model.setViewName("description");			// .jsp page name
 		return model;
 	}
 }

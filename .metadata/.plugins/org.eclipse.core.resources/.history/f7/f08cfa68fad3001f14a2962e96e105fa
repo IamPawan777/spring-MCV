@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="p6-redirection">
-        <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
-        <property name="context-root" value="p6-redirection"/>
-        <property name="java-output-path" value="/p6-redirection/target/classes"/>
-    </wb-module>
-</project-modules>

@@ -142,7 +142,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="p6-redirection" path="/p6-redirection" reloadable="true" source="org.eclipse.jst.j2ee.server:p6-redirection"/><Context docBase="p5-registration-mvc-orm" path="/p5-registration-mvc-orm" reloadable="true" source="org.eclipse.jst.j2ee.server:p5-registration-mvc-orm"/><Context docBase="p4.2-sendingTocontroller-modelAttribute" path="/p4-sending-data-to-controller" reloadable="true" source="org.eclipse.jst.j2ee.server:p4.2-sendingTocontroller-modelAttribute"/><Context docBase="my_search_engine" path="/my_search_engine" reloadable="true" source="org.eclipse.jst.j2ee.server:my_search_engine"/></Host>
+      <Context docBase="p-11-interceptor" path="/p-11-interceptor" reloadable="true" source="org.eclipse.jst.j2ee.server:p-11-interceptor"/><Context docBase="data-collection-crud" path="/data-collection-crud" reloadable="true" source="org.eclipse.jst.j2ee.server:data-collection-crud"/></Host>
     </Engine>
   </Service>
 </Server>

@@ -167,3 +167,506 @@ Jan 18, 2025 13:47:52.74 [13796:14796:0118/134752.747:ERROR:connection_factory_i
 Jan 18, 2025 14:28:03.70 [13796:14796:0118/142803.703:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
 Jan 18, 2025 14:28:06.33 [13796:14796:0118/142806.337:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
 Jan 18, 2025 14:31:52.57 [13796:7820:0118/143152.575:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Jan 19, 2025 23:04:26.13 NEW SESSION
+Jan 19, 2025 23:04:26.14 [12232:13868:0119/230426.133:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 19, 2025 23:04:26.85 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 19, 2025 23:04:26.85 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 19, 2025 23:04:47.49 [12232:13868:0119/230447.492:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 19, 2025 23:05:28.22 [12232:13868:0119/230528.227:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 19, 2025 23:07:14.36 [12232:13868:0119/230714.360:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 19, 2025 23:10:36.45 [12232:13868:0119/231036.458:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 19, 2025 23:17:02.38 [12232:13868:0119/231702.386:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 19, 2025 23:34:44.73 [12232:2156:0119/233444.733:ERROR:cert_issuer_source_aia.cc(136)] AiaRequest::OnFetchCompleted got error -105
+Jan 19, 2025 23:34:45.04 [12232:2156:0119/233445.042:ERROR:cert_issuer_source_aia.cc(136)] AiaRequest::OnFetchCompleted got error -105
+Jan 20, 2025 24:46:36.73 [12232:13868:0120/004636.729:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 20, 2025 01:22:46.91 [12232:13868:0120/012246.910:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Jan 20, 2025 14:44:22.07 NEW SESSION
+Jan 20, 2025 14:44:22.07 [12300:11900:0120/144422.073:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 20, 2025 14:44:22.80 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 20, 2025 14:44:22.81 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 20, 2025 14:44:44.86 [12300:11900:0120/144444.869:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 20, 2025 14:45:36.58 [12300:11900:0120/144536.588:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 20, 2025 14:46:08.64 [12300:4832:0120/144608.649:ERROR:device_event_log_impl.cc(201)] [14:46:08.649] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 20, 2025 14:47:23.36 [12300:11900:0120/144723.362:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 20, 2025 14:50:46.86 [12300:11900:0120/145046.860:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 20, 2025 14:58:00.20 [12300:11900:0120/145800.209:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 20, 2025 18:22:56.21 [12300:11900:0120/182256.210:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 20, 2025 19:06:46.04 [12300:4832:0120/190646.044:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jan 20, 2025 20:26:37.30 [12300:11900:0120/202637.305:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 20, 2025 20:48:49.59 [12300:4832:0120/204849.599:ERROR:device_event_log_impl.cc(201)] [20:48:49.601] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Jan 21, 2025 21:18:48.67 NEW SESSION
+Jan 21, 2025 21:18:48.68 [6476:11196:0121/211848.675:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 21, 2025 21:18:48.75 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 21, 2025 21:18:48.75 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 21, 2025 21:19:11.36 [6476:11196:0121/211911.369:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 21, 2025 21:19:59.50 [6476:11196:0121/211959.506:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 21, 2025 21:21:59.34 [6476:11196:0121/212159.347:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 21, 2025 21:25:17.24 [6476:11196:0121/212517.243:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 21, 2025 21:31:10.96 [6476:11196:0121/213110.963:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 21, 2025 21:56:33.11 [6476:11196:0121/215633.111:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 21, 2025 22:50:23.80 [6476:11196:0121/225023.074:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+Jan 22, 2025 24:44:51.67 [6476:11196:0122/004451.669:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Jan 23, 2025 10:30:21.03 NEW SESSION
+Jan 23, 2025 10:30:21.05 [5012:8732:0123/103021.025:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 23, 2025 10:30:28.06 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 23, 2025 10:30:28.07 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 23, 2025 10:30:42.97 [5012:8732:0123/103042.977:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 23, 2025 10:31:37.38 [5012:8732:0123/103137.389:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 23, 2025 10:33:22.45 [5012:8732:0123/103322.406:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 23, 2025 10:37:01.50 [5012:8732:0123/103701.500:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 23, 2025 10:43:04.17 [5012:8732:0123/104304.177:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 23, 2025 10:55:08.23 [5012:8732:0123/105508.236:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 23, 2025 10:55:20.21 [5012:8732:0123/105520.210:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2025 11:07:00.30 [5012:8732:0123/110700.304:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 23, 2025 11:07:12.26 [5012:8732:0123/110712.261:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2025 11:07:53.41 [5012:8732:0123/110753.411:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2025 11:08:14.30 [5012:1144:0123/110814.302:ERROR:device_event_log_impl.cc(201)] [11:08:14.302] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 23, 2025 11:10:53.15 [5012:8732:0123/111053.158:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 23, 2025 11:10:55.30 [5012:8732:0123/111055.304:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -102
+Jan 23, 2025 11:55:33.41 Client requested cancel during Invoke()
+Jan 23, 2025 15:03:59.27 [13968:2824:0123/150359.273:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 23, 2025 15:04:03.57 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 23, 2025 15:04:03.58 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 23, 2025 15:04:20.52 [13968:2824:0123/150420.527:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 23, 2025 15:05:06.55 [13968:2824:0123/150506.557:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 23, 2025 15:10:36.67 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 23, 2025 15:10:36.68 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 23, 2025 15:10:36.71 [2032:8832:0123/151036.715:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 23, 2025 15:10:59.05 [2032:8832:0123/151059.049:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 23, 2025 15:11:41.94 [2032:8832:0123/151141.943:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 23, 2025 15:13:40.98 [2032:8832:0123/151340.980:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 23, 2025 15:16:32.21 [2032:8832:0123/151632.215:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 23, 2025 15:22:10.68 [2032:8832:0123/152210.682:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Jan 24, 2025 10:39:45.15 NEW SESSION
+Jan 24, 2025 10:39:45.17 [3220:2332:0124/103945.156:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 24, 2025 10:39:45.38 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 24, 2025 10:39:45.38 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 24, 2025 10:40:11.31 [3220:2332:0124/104011.314:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 24, 2025 10:41:09.18 [3220:2332:0124/104109.186:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 24, 2025 10:42:15.24 [3220:8376:0124/104215.242:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jan 24, 2025 10:42:47.34 [3220:2332:0124/104247.341:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 24, 2025 10:44:21.66 [3220:8376:0124/104421.663:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jan 24, 2025 10:46:41.78 [3220:2332:0124/104641.780:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 24, 2025 10:53:54.34 [3220:2332:0124/105354.343:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 24, 2025 11:08:49.40 [3220:8376:0124/110849.404:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jan 24, 2025 11:11:42.50 [3220:8376:0124/111142.500:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jan 24, 2025 11:11:45.87 [3220:8376:0124/111145.874:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jan 24, 2025 11:18:44.04 [3220:2332:0124/111844.046:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Jan 24, 2025 11:18:46.09 [3220:2332:0124/111846.098:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Jan 24, 2025 11:18:46.41 [3220:8376:0124/111846.418:ERROR:device_event_log_impl.cc(201)] [11:18:46.418] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 24, 2025 11:18:50.82 [3220:2332:0124/111850.824:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 24, 2025 11:19:08.94 [3220:2332:0124/111908.943:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 24, 2025 11:19:14.84 [3220:2332:0124/111914.840:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jan 24, 2025 11:27:37.31 [3220:8376:0124/112737.314:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jan 24, 2025 11:27:56.63 [3220:8376:0124/112756.638:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jan 24, 2025 11:42:45.40 [3220:2332:0124/114245.401:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 24, 2025 11:43:09.29 [3220:2332:0124/114309.291:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 24, 2025 11:44:06.51 [3220:2332:0124/114406.513:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 24, 2025 11:45:28.23 [3220:2332:0124/114528.229:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 24, 2025 11:49:14.77 [3220:2332:0124/114914.775:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 24, 2025 11:57:12.13 [3220:2332:0124/115712.133:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Jan 27, 2025 20:28:46.34 NEW SESSION
+Jan 27, 2025 20:28:46.35 [14896:828:0127/202846.344:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 27, 2025 20:28:46.83 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 27, 2025 20:28:46.84 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 27, 2025 20:29:12.09 [14896:828:0127/202912.098:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 27, 2025 20:30:06.07 [14896:828:0127/203006.071:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 27, 2025 20:32:02.56 [14896:828:0127/203202.562:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 27, 2025 20:35:13.11 [14896:828:0127/203513.111:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 27, 2025 20:42:33.25 [14896:828:0127/204233.255:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 28, 2025 24:31:46.97 [12816:8576:0128/003146.975:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 28, 2025 24:31:47.94 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 28, 2025 24:31:47.95 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 28, 2025 24:32:11.77 [12816:8576:0128/003211.779:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 28, 2025 24:32:55.74 [12816:8576:0128/003255.749:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 28, 2025 24:34:46.34 [12816:8576:0128/003446.343:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 28, 2025 24:37:46.19 [12816:8576:0128/003746.193:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 28, 2025 24:44:11.28 [12816:8576:0128/004411.283:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Jan 28, 2025 24:45:23.21 [12816:9952:0128/004523.216:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jan 28, 2025 01:32:29.71 [12816:9952:0128/013229.717:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jan 28, 2025 02:20:22.11 [12816:9952:0128/022022.112:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jan 28, 2025 03:34:40.66 [12816:9952:0128/033440.660:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jan 28, 2025 03:35:37.69 [12816:9952:0128/033537.696:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+Jan 28, 2025 03:35:37.69 [12816:9952:0128/033537.696:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jan 28, 2025 03:35:46.67 [12816:9952:0128/033546.672:ERROR:interface_endpoint_client.cc(725)] Message 5 rejected by interface blink.mojom.WidgetHost
+
+Feb 06, 2025 01:18:45.28 NEW SESSION
+Feb 06, 2025 01:18:45.29 [2256:8648:0206/011845.282:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 06, 2025 01:18:45.99 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 06, 2025 01:18:46.01 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 06, 2025 01:19:12.38 [2256:8648:0206/011912.386:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 06, 2025 01:20:09.99 [2256:8648:0206/012009.993:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 06, 2025 01:21:42.41 [2256:8648:0206/012142.413:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 06, 2025 01:25:27.50 [2256:8648:0206/012527.504:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 06, 2025 01:31:41.33 [2256:8648:0206/013141.334:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 06, 2025 01:58:46.09 [2256:8648:0206/015846.097:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 06, 2025 02:37:11.42 [2256:8648:0206/023711.423:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 06, 2025 02:37:14.74 [2256:8648:0206/023714.748:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+
+Feb 07, 2025 11:21:22.51 NEW SESSION
+Feb 07, 2025 11:21:22.53 [12992:4016:0207/112122.515:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 07, 2025 11:21:23.49 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 07, 2025 11:21:23.50 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 07, 2025 11:21:49.50 [12992:4016:0207/112149.504:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 07, 2025 11:22:30.94 [12992:4016:0207/112230.943:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 07, 2025 11:24:19.01 [12992:4016:0207/112419.017:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 07, 2025 11:27:41.44 [12992:4016:0207/112741.448:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 07, 2025 11:33:07.12 [12992:4016:0207/113307.126:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 07, 2025 12:58:14.00 [12992:4016:0207/125814.004:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 07, 2025 14:20:54.38 [12992:4016:0207/142054.388:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 07, 2025 14:20:56.83 [12992:4016:0207/142056.829:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 07, 2025 14:21:25.99 [12992:4016:0207/142125.997:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 07, 2025 14:22:22.80 [12992:4016:0207/142222.800:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 07, 2025 14:24:00.65 [12992:4016:0207/142400.653:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 07, 2025 14:26:58.95 [12992:4016:0207/142658.950:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 07, 2025 14:33:11.71 [12992:4016:0207/143311.712:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 07, 2025 15:17:35.42 [12992:4016:0207/151735.423:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Feb 07, 2025 15:17:35.48 [12992:4016:0207/151735.485:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Feb 08, 2025 12:03:51.21 NEW SESSION
+Feb 08, 2025 12:03:51.22 [10552:8720:0208/120351.211:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 08, 2025 12:03:51.89 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 08, 2025 12:03:51.90 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 08, 2025 12:04:18.39 [10552:8720:0208/120418.391:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 08, 2025 12:05:17.11 [10552:8720:0208/120517.113:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 08, 2025 12:06:40.33 [10552:8720:0208/120640.331:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 08, 2025 12:09:55.74 [10552:8720:0208/120955.747:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 08, 2025 12:17:06.37 [10552:8720:0208/121706.377:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 08, 2025 13:01:12.92 [10552:8720:0208/130112.922:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 08, 2025 17:11:55.33 [10552:8720:0208/171155.335:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 08, 2025 17:12:16.78 [10552:8720:0208/171216.786:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 08, 2025 17:13:05.28 [10552:8720:0208/171305.281:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 08, 2025 17:14:56.96 [10552:8720:0208/171456.969:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 08, 2025 17:17:51.56 [10552:8720:0208/171751.568:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 08, 2025 17:25:08.22 [10552:8720:0208/172508.219:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 08, 2025 18:33:15.56 [10552:8720:0208/183315.560:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 08, 2025 18:33:17.61 [10552:8720:0208/183317.613:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 08, 2025 18:33:17.94 [10552:5936:0208/183317.944:ERROR:device_event_log_impl.cc(199)] [18:33:17.945] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 08, 2025 18:33:22.31 [10552:8720:0208/183322.312:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2025 18:33:41.26 [10552:8720:0208/183341.264:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2025 18:33:48.67 [10552:8720:0208/183348.676:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2025 18:34:02.21 [10552:8720:0208/183402.217:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2025 18:34:09.16 [10552:8720:0208/183409.168:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2025 18:34:28.26 [10552:8720:0208/183428.265:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2025 18:34:50.88 [10552:8720:0208/183450.882:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2025 18:36:13.27 [10552:8720:0208/183613.277:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2025 18:36:36.56 [10552:8720:0208/183636.565:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2025 18:40:26.67 [10552:8720:0208/184026.671:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2025 18:47:21.24 [10552:8720:0208/184721.242:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2025 18:57:36.34 [10552:8720:0208/185736.341:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 09, 2025 11:14:54.49 [10552:8720:0209/111454.497:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 09, 2025 11:15:15.42 [10552:8720:0209/111515.428:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 09, 2025 11:15:57.67 [10552:8720:0209/111557.679:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 09, 2025 11:17:22.93 [10552:8720:0209/111722.936:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 09, 2025 11:20:10.68 [10552:8720:0209/112010.681:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 09, 2025 11:26:59.18 [10552:8720:0209/112659.187:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Feb 09, 2025 17:41:28.78 NEW SESSION
+Feb 09, 2025 17:41:28.79 [7596:4956:0209/174128.776:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 09, 2025 17:41:28.80 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 09, 2025 17:41:28.80 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 09, 2025 17:41:52.86 [7596:4956:0209/174152.859:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Feb 09, 2025 17:48:07.99 NEW SESSION
+Feb 09, 2025 17:48:08.00 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 09, 2025 17:48:08.01 [11300:9456:0209/174808.014:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 09, 2025 17:48:08.02 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Feb 15, 2025 16:00:24.41 NEW SESSION
+Feb 15, 2025 16:00:24.46 [3672:9340:0215/160024.407:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 16:00:24.97 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 15, 2025 16:00:24.98 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 15, 2025 16:00:46.90 [3672:9340:0215/160046.906:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 16:01:42.18 [3672:9340:0215/160142.181:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 16:03:35.26 [3672:9340:0215/160335.260:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 16:06:56.70 [3672:9340:0215/160656.705:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 16:13:42.86 [3672:9340:0215/161342.867:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 16:30:18.00 [3672:1596:0215/163018.000:ERROR:device_event_log_impl.cc(199)] [16:30:18.000] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 15, 2025 16:57:19.66 [3672:9340:0215/165719.660:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 16:57:49.71 [3672:9340:0215/165749.711:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 16:58:35.64 [3672:9340:0215/165835.645:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 17:00:19.06 [3672:9340:0215/170019.064:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 17:03:33.69 [3672:9340:0215/170333.697:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 17:10:50.82 [3672:9340:0215/171050.824:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Feb 15, 2025 20:01:33.60 NEW SESSION
+Feb 15, 2025 20:01:33.62 [5464:10028:0215/200133.600:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 20:01:34.02 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 15, 2025 20:01:34.03 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 15, 2025 20:01:58.72 [5464:10028:0215/200158.719:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 20:02:48.89 [5464:10028:0215/200248.892:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 20:04:34.65 [5464:10028:0215/200434.654:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Feb 15, 2025 20:45:03.05 NEW SESSION
+Feb 15, 2025 20:45:03.05 [4712:6848:0215/204503.051:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 20:45:03.22 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 15, 2025 20:45:03.22 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 15, 2025 20:45:27.89 [4712:6848:0215/204527.899:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 20:46:19.52 [4712:6848:0215/204619.523:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 20:47:56.81 [4712:6848:0215/204756.815:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 20:51:08.78 [4712:6848:0215/205108.783:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Feb 15, 2025 21:31:20.68 NEW SESSION
+Feb 15, 2025 21:31:20.69 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 15, 2025 21:31:20.69 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 15, 2025 21:31:20.75 [10964:10396:0215/213120.750:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 21:31:45.81 [10964:10396:0215/213145.810:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 21:32:45.69 [10964:10396:0215/213245.692:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 21:34:29.29 [10964:10396:0215/213429.297:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 21:37:57.96 [10964:10396:0215/213757.966:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 21:45:18.94 [10964:10396:0215/214518.942:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 15, 2025 21:48:31.66 Client requested cancel during Invoke()
+Feb 16, 2025 24:13:36.67 [10964:10396:0216/001336.675:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 16, 2025 24:13:38.83 [10964:10396:0216/001338.836:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -102
+Feb 16, 2025 24:14:08.84 [10964:10396:0216/001408.847:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -100
+Feb 16, 2025 24:14:55.74 [10964:10396:0216/001455.748:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -102
+Feb 16, 2025 24:16:40.77 [10964:10396:0216/001640.774:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -100
+Feb 16, 2025 24:20:32.52 [10964:10396:0216/002032.522:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -102
+Feb 16, 2025 24:26:51.00 [10964:10396:0216/002651.005:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -100
+Feb 16, 2025 24:36:53.20 [10964:10396:0216/003653.203:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -102
+Feb 16, 2025 24:46:53.40 [10964:10396:0216/004653.399:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -100
+Feb 16, 2025 24:56:55.61 [10964:10396:0216/005655.615:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -102
+Feb 16, 2025 01:07:16.67 [10964:10396:0216/010716.676:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+Feb 16, 2025 01:17:37.74 [10964:10396:0216/011737.740:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+
+Feb 17, 2025 01:55:23.25 NEW SESSION
+Feb 17, 2025 01:55:23.27 [6644:6808:0217/015523.255:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 17, 2025 01:55:23.49 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 17, 2025 01:55:23.51 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 17, 2025 01:55:48.21 [6644:6808:0217/015548.215:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 17, 2025 01:56:31.98 [6644:6808:0217/015631.984:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 17, 2025 01:58:20.24 [6644:6808:0217/015820.241:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 17, 2025 02:01:08.36 [6644:6808:0217/020108.368:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 17, 2025 02:06:42.20 [6644:6808:0217/020642.206:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 17, 2025 02:22:26.57 [6644:8256:0217/022226.578:ERROR:device_event_log_impl.cc(199)] [02:22:26.578] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Feb 19, 2025 01:10:34.74 NEW SESSION
+Feb 19, 2025 01:10:34.75 [8064:10644:0219/011034.744:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 01:10:35.08 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 19, 2025 01:10:35.09 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 19, 2025 01:11:01.61 [8064:10644:0219/011101.609:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 01:11:58.34 [8064:10644:0219/011158.348:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 01:13:35.50 [8064:10644:0219/011335.502:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 01:17:27.23 [8064:10644:0219/011727.235:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 01:24:37.24 [8064:10644:0219/012437.247:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 02:15:04.28 [8064:10644:0219/021504.281:ERROR:mcs_client.cc(748)] Received close command, resetting connection.
+
+Feb 19, 2025 09:08:31.13 NEW SESSION
+Feb 19, 2025 09:08:31.15 [1756:11404:0219/090831.134:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 09:08:32.21 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 19, 2025 09:08:32.22 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 19, 2025 09:08:57.47 [1756:11404:0219/090857.475:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 09:09:43.61 [1756:11404:0219/090943.617:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 09:11:10.98 [1756:11404:0219/091110.981:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 09:14:55.89 [1756:11404:0219/091455.898:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 09:20:33.52 [1756:11404:0219/092033.520:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 09:43:21.86 [1756:11404:0219/094321.861:ERROR:mcs_client.cc(748)] Received close command, resetting connection.
+
+Feb 19, 2025 11:27:45.00 NEW SESSION
+Feb 19, 2025 11:27:45.01 [8252:3588:0219/112745.002:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 11:27:45.12 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 19, 2025 11:27:45.12 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 19, 2025 11:28:13.81 [8252:3588:0219/112813.815:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 11:29:03.19 [8252:3588:0219/112903.189:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 11:30:58.56 [8252:3588:0219/113058.562:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 11:31:08.33 [8252:3092:0219/113108.332:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+Feb 19, 2025 11:34:15.54 [8252:3588:0219/113415.541:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 11:39:53.88 [8252:3588:0219/113953.885:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 13:01:28.73 [2312:3532:0219/130128.735:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 13:01:29.54 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 19, 2025 13:01:29.55 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 19, 2025 13:01:58.14 [2312:3532:0219/130158.147:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 13:02:45.69 [2312:3532:0219/130245.699:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Feb 19, 2025 16:35:53.41 NEW SESSION
+Feb 19, 2025 16:35:53.43 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 19, 2025 16:35:53.43 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 19, 2025 16:35:53.43 [5956:8440:0219/163553.438:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 16:36:23.63 [5956:8440:0219/163623.630:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 16:37:07.76 [5956:8440:0219/163707.765:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 16:38:58.78 [5956:8440:0219/163858.786:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 16:42:23.42 [5956:8440:0219/164223.428:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 16:43:50.32 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 19, 2025 16:43:50.32 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 19, 2025 16:43:50.72 [10684:8704:0219/164350.725:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 16:44:20.74 [10684:8704:0219/164420.740:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 16:45:09.13 [10684:8704:0219/164509.138:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 16:46:40.51 [10684:8704:0219/164640.515:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 16:49:39.86 [10684:8704:0219/164939.865:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 16:55:27.42 [10684:8704:0219/165527.422:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 17:08:25.19 [10684:7944:0219/170825.196:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Feb 19, 2025 21:09:00.79 NEW SESSION
+Feb 19, 2025 21:09:00.82 [4412:10624:0219/210900.792:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 21:09:01.42 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 19, 2025 21:09:01.42 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 19, 2025 21:09:25.72 [4412:10624:0219/210925.729:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 21:10:20.12 [4412:10624:0219/211020.126:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 21:12:04.65 [4412:10624:0219/211204.658:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 19, 2025 21:14:58.09 [4412:10624:0219/211458.091:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Feb 20, 2025 01:30:35.42 NEW SESSION
+Feb 20, 2025 01:30:35.43 [8256:11056:0220/013035.420:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 20, 2025 01:30:35.94 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 20, 2025 01:30:35.94 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 20, 2025 01:31:02.53 [8256:11056:0220/013102.532:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 20, 2025 01:31:49.73 [8256:11056:0220/013149.734:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 20, 2025 01:33:21.05 [8256:11056:0220/013321.055:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 20, 2025 01:36:55.84 [8256:11056:0220/013655.842:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 20, 2025 01:40:51.43 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 20, 2025 01:40:51.44 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 20, 2025 01:40:51.53 [6624:8732:0220/014051.530:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Feb 20, 2025 22:47:53.59 NEW SESSION
+Feb 20, 2025 22:47:53.63 [1816:7228:0220/224753.588:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 20, 2025 22:47:53.70 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 20, 2025 22:47:53.70 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 20, 2025 22:48:21.12 [1816:7228:0220/224821.120:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 20, 2025 22:49:01.74 [1816:7228:0220/224901.741:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 20, 2025 22:50:51.67 [1816:7228:0220/225051.676:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 20, 2025 22:53:59.11 [1816:7228:0220/225359.114:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 20, 2025 23:01:18.92 [1816:7228:0220/230118.922:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 20, 2025 23:32:16.98 [1816:7228:0220/233216.988:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 20, 2025 23:32:45.81 [1816:7228:0220/233245.810:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 20, 2025 23:33:27.82 [1816:7228:0220/233327.821:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 20, 2025 23:34:49.73 [1816:7228:0220/233449.734:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 20, 2025 23:38:32.65 [1816:7228:0220/233832.651:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 20, 2025 23:44:36.87 [1816:7228:0220/234436.878:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Feb 22, 2025 11:44:14.71 NEW SESSION
+Feb 22, 2025 11:44:14.73 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 22, 2025 11:44:14.73 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 22, 2025 11:44:14.73 [11940:12060:0222/114414.729:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 11:44:42.19 [11940:12060:0222/114442.191:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 11:45:41.16 [11940:12060:0222/114541.161:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 11:47:23.25 [11940:12060:0222/114723.256:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 11:50:16.04 [11940:12060:0222/115016.044:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 11:55:50.09 [11940:12060:0222/115550.091:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 12:57:49.40 [11940:12060:0222/125749.401:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 22, 2025 13:46:28.23 [11940:12060:0222/134628.231:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 13:46:55.51 [11940:12060:0222/134655.511:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 13:47:42.29 [11940:12060:0222/134742.294:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 13:49:36.01 [11940:12060:0222/134936.014:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 13:53:33.37 [11940:12060:0222/135333.374:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 14:00:58.35 [11940:12060:0222/140058.356:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 14:10:30.75 [11940:12060:0222/141030.758:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 22, 2025 14:10:32.82 [11940:12060:0222/141032.821:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 22, 2025 14:10:33.18 [11940:8172:0222/141033.188:ERROR:device_event_log_impl.cc(199)] [14:10:33.188] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 22, 2025 14:29:38.93 [11940:12060:0222/142938.932:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 22, 2025 14:29:38.93 [11940:12060:0222/142938.935:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Feb 22, 2025 19:12:19.86 [11940:12060:0222/191219.859:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 22, 2025 20:53:16.64 [11940:12060:0222/205316.646:ERROR:connection_handler_impl.cc(477)] Timed out waiting for GCM Protocol buffer.
+Feb 22, 2025 20:53:16.64 [11940:12060:0222/205316.646:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -7
+
+Feb 22, 2025 23:35:51.44 NEW SESSION
+Feb 22, 2025 23:35:51.45 [9912:8372:0222/233551.446:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 23:35:52.18 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 22, 2025 23:35:52.18 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 22, 2025 23:36:18.55 [9912:8372:0222/233618.550:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 23:37:14.73 [9912:8372:0222/233714.736:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 23:39:09.35 [9912:8372:0222/233909.356:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 23:42:32.67 [9912:8372:0222/234232.671:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 22, 2025 23:50:12.74 [9912:8372:0222/235012.740:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 23, 2025 24:10:22.89 [9912:8372:0223/001022.897:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 23, 2025 24:22:51.29 [9912:8372:0223/002251.298:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 23, 2025 01:46:28.56 [9912:8372:0223/014628.564:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 23, 2025 01:46:52.46 [9912:8372:0223/014652.461:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 23, 2025 01:47:43.86 [9912:8372:0223/014743.860:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 23, 2025 01:49:13.40 [9912:8372:0223/014913.406:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 23, 2025 01:52:08.06 [9912:8372:0223/015208.062:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 23, 2025 01:59:23.75 [9912:8372:0223/015923.750:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Feb 24, 2025 16:55:39.72 NEW SESSION
+Feb 24, 2025 16:55:39.73 [4400:11640:0224/165539.722:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 24, 2025 16:55:39.95 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 24, 2025 16:55:39.97 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 24, 2025 16:56:06.02 [4400:11640:0224/165606.024:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 24, 2025 16:57:00.12 [4400:11640:0224/165700.126:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 24, 2025 16:58:42.78 [4400:11640:0224/165842.780:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 24, 2025 17:02:32.25 [4400:11640:0224/170232.254:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 24, 2025 17:09:50.85 [4400:11640:0224/170950.856:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 24, 2025 17:44:14.30 [4400:11640:0224/174414.301:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 24, 2025 17:44:16.37 [4400:11640:0224/174416.369:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Feb 24, 2025 17:44:16.75 [4400:788:0224/174416.751:ERROR:device_event_log_impl.cc(199)] [17:44:16.751] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 24, 2025 19:08:30.31 [4400:788:0224/190830.316:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 24, 2025 19:08:31.05 [4400:788:0224/190831.057:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 24, 2025 19:08:31.96 [4400:788:0224/190831.963:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 24, 2025 19:08:32.10 [4400:788:0224/190832.106:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 24, 2025 19:08:32.15 [4400:788:0224/190832.154:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Feb 24, 2025 20:53:05.14 [4400:11640:0224/205305.141:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 24, 2025 21:29:25.47 [4400:11640:0224/212925.472:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 24, 2025 22:48:05.56 [4400:11640:0224/224805.567:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 25, 2025 24:52:40.71 [4400:11640:0225/005240.709:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 25, 2025 24:52:42.74 [4400:11640:0225/005242.739:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 25, 2025 24:53:03.60 [4400:11640:0225/005303.609:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 25, 2025 24:54:01.56 [4400:11640:0225/005401.563:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 25, 2025 24:55:35.69 [4400:11640:0225/005535.698:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 25, 2025 24:58:47.21 [4400:11640:0225/005847.217:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 25, 2025 01:06:02.44 [4400:11640:0225/010602.439:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 25, 2025 02:21:47.33 [4400:788:0225/022147.336:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Feb 25, 2025 16:53:01.54 NEW SESSION
+Feb 25, 2025 16:53:01.55 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 25, 2025 16:53:01.55 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 25, 2025 16:53:01.63 [9288:1948:0225/165301.635:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 25, 2025 16:53:31.14 [9288:1948:0225/165331.149:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 25, 2025 16:54:20.43 [9288:1948:0225/165420.432:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 25, 2025 16:55:52.14 [9288:1948:0225/165552.143:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 25, 2025 16:59:01.32 [9288:1948:0225/165901.321:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 25, 2025 17:06:09.62 [9288:1948:0225/170609.624:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 25, 2025 19:09:49.64 [9288:1948:0225/190949.640:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 25, 2025 20:48:07.99 [9288:1948:0225/204807.998:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Feb 25, 2025 22:12:07.75 [9288:1948:0225/221207.759:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+Feb 26, 2025 22:06:04.65 NEW SESSION
+Feb 26, 2025 22:06:04.65 [10496:1768:0226/220604.648:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Feb 26, 2025 22:06:05.46 Created TensorFlow Lite XNNPACK delegate for CPU.
+Feb 26, 2025 22:06:05.47 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Feb 26, 2025 22:06:33.60 [10496:1768:0226/220633.607:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Mar 06, 2025 20:04:38.42 NEW SESSION
+Mar 06, 2025 20:04:38.45 [9964:11692:0306/200438.425:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 20:04:47.76 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 06, 2025 20:04:47.79 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 06, 2025 20:04:58.99 [9964:11692:0306/200458.994:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 20:05:58.47 [9964:11692:0306/200558.477:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 20:07:19.20 [9964:11692:0306/200719.209:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 20:10:51.07 [9964:11692:0306/201051.076:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 20:17:03.39 [9964:11692:0306/201703.389:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 20:31:37.93 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 06, 2025 20:31:37.93 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 06, 2025 20:31:38.16 [7868:8108:0306/203138.167:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 20:32:05.62 [7868:8108:0306/203205.627:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 20:32:57.28 [7868:8108:0306/203257.289:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 20:34:45.06 [7868:8108:0306/203445.063:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 20:38:21.39 [7868:8108:0306/203821.390:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 20:44:16.52 [7868:8108:0306/204416.526:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 06, 2025 20:56:19.44 [7868:8108:0306/205619.444:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 06, 2025 23:42:35.36 [7868:8108:0306/234235.366:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 06, 2025 23:42:37.86 [7868:8108:0306/234237.861:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 06, 2025 23:42:37.86 [7868:4048:0306/234237.863:ERROR:get_updates_processor.cc(266)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+
+Mar 07, 2025 08:54:40.20 NEW SESSION
+Mar 07, 2025 08:54:40.22 [9512:6424:0307/085440.205:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 07, 2025 08:54:40.75 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 07, 2025 08:54:40.76 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 07, 2025 08:57:13.27 [10568:7424:0307/085713.270:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 07, 2025 08:57:13.46 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 07, 2025 08:57:13.46 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 07, 2025 08:57:36.85 [10568:7424:0307/085736.853:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 07, 2025 08:58:28.23 [10568:7424:0307/085828.235:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 07, 2025 08:59:55.98 [10568:7424:0307/085955.988:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 07, 2025 09:03:31.83 [10568:7424:0307/090331.834:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 07, 2025 09:10:07.21 [10568:7424:0307/091007.210:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 07, 2025 10:28:09.79 [10568:7424:0307/102809.799:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 07, 2025 16:25:55.89 [10568:7424:0307/162555.898:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 07, 2025 17:08:07.52 [10568:7424:0307/170807.527:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 07, 2025 17:08:56.61 [10568:3232:0307/170856.613:ERROR:device_event_log_impl.cc(199)] [17:08:56.613] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 07, 2025 17:09:26.22 [10568:7424:0307/170926.222:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+Mar 07, 2025 17:09:28.27 [10568:7424:0307/170928.279:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106

@@ -2,6 +2,14 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Language\Advance Java\spring MVC\p5-register_form_mvc_orm\src\main\webapp\WEB-INF\pages\form.jsp"/>
+			<item value="C:\Language\Advance Java\MVC project"/>
+			<item value="C:\Language\Advance Java\JDBC"/>
+			<item value="C:\Language\Advance Java\spring MVC\p10-exception-handing\src\main\java\file\handing\GlobalExceptionHandle.java"/>
+			<item value="C:\Language\Advance Java\spring MVC\p9-file-upload\pom.xml"/>
+			<item value="C:\Language\Advance Java\spring MVC\p9-file-uploading\src\main\webapp\WEB-INF\pages\home.jsp"/>
+			<item value="C:\Language\Advance Java\spring MVC\p7-other_static_resources\src\main\webapp\WEB-INF\pages\home.jsp"/>
+			<item value="C:\Language\Advance Java\spring MVC\p6-redirection\src\main\webapp\WEB-INF\web.xml"/>
 			<item value="C:\Language\Advance Java\spring MVC\p5-register_form_mvc_orm\pom.xml"/>
 			<item value="C:\Language\Advance Java\spring MVC\p5-registration-mvc-orm"/>
 			<item value="C:\Language\Advance Java\spring MVC\p3-jspExpression-jstl"/>
@@ -29,33 +37,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.search.engine"/>
-			<item value="com.spring"/>
-			<item value="spring.mvc"/>
-			<item value="com.mvc"/>
-			<item value="com.mvc.pro"/>
+			<item value="com.orm"/>
 		</list>
 		<list key="groupId">
-			<item value="com.search.engine"/>
-			<item value="com.spring"/>
-			<item value="com.spingcasa"/>
-			<item value="spring.mvc"/>
-			<item value="com.mvc"/>
-			<item value="com.mvc.pro"/>
+			<item value="com.orm"/>
 		</list>
 		<list key="artifactId">
-			<item value="my_search_engine"/>
-			<item value="searchEngine_byMVC"/>
-			<item value="p6-redirection"/>
-			<item value="p5-register_form_mvc_orm"/>
-			<item value="p5-registerForm_withORM"/>
-			<item value="p5-registration-mvc-orm"/>
-			<item value="p5-registration-mcv-orm"/>
-			<item value="p4-sending-data-to-controller"/>
-			<item value="p3-jspExpre-jstl"/>
-			<item value="p4-jspExpre-JSTL"/>
-			<item value="p2-sending-data"/>
-			<item value="p1-first"/>
+			<item value="orm-project"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

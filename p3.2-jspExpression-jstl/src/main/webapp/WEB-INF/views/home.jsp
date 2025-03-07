@@ -13,8 +13,6 @@
 <body>
 	<h1>This is HOME PAGE.....</h1>
 	
-	
-	
 	<h2>Name: ${name}</h2>
 	<h2>${friends }</h2>
 	

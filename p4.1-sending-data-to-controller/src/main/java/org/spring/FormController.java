@@ -25,8 +25,8 @@ public class FormController {
 		System.out.println("user Password: "+u_pass);
 		
 		
-		// processing something......
-		
+		// ----------processing something------------
+	
 		
 		model.addAttribute("name", u_name);
 		model.addAttribute("email", u_email);

@@ -1,5 +1,0 @@
-package com.mvc.orm.entity.copy;
-
-public class User {
-
-}

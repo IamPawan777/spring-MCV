@@ -12,7 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class FormController {
 	
-	@ModelAttribute
+	@ModelAttribute							// as a common data/model for hole application
 	public void commonData(Model model) {
 		model.addAttribute("Header", "Registration Form");
 		model.addAttribute("Desc", "Fill form before 30 minitus.");
@@ -24,9 +24,10 @@ public class FormController {
 	}
 	
 	@RequestMapping(path = "/sending", method = RequestMethod.POST)
-	public String handleForm(@ModelAttribute User user, @RequestParam("check") String ck) {
+//	public String handleForm(@ModelAttribute User user, @RequestParam("check") String ck) {					// requestParam  vs  ModelAttribute together
+	public String handleForm(@ModelAttribute User user) {
 		System.out.println(user);
-		System.out.println("Check Box :"+ck);
+//		System.out.println("Check Box :"+ck);
 		return "success";
 	}
 	

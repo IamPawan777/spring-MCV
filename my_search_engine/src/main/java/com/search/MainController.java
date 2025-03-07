@@ -19,6 +19,7 @@ public class MainController {
 		String url = "https://www.google.com/search?q="+query;		
 		redirectView.setUrl(url);
 		return redirectView;	
+//		https://chatgpt.com/?q=
 	}
 	
 	@RequestMapping("/yahooProcess")

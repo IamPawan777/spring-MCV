@@ -2,8 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
-			<item value="C:\Language\Advance Java\spring MVC\p5-register_form_mvc_orm\src\main\webapp\WEB-INF\pages\form.jsp"/>
 			<item value="C:\Language\Advance Java\MVC project"/>
+			<item value="C:\Language\Advance Java\spring MVC\p5-register_form_mvc_orm\src\main\webapp\WEB-INF\pages\form.jsp"/>
 			<item value="C:\Language\Advance Java\JDBC"/>
 			<item value="C:\Language\Advance Java\spring MVC\p10-exception-handing\src\main\java\file\handing\GlobalExceptionHandle.java"/>
 			<item value="C:\Language\Advance Java\spring MVC\p9-file-upload\pom.xml"/>
@@ -37,12 +37,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.search"/>
 			<item value="com.orm"/>
 		</list>
 		<list key="groupId">
+			<item value="com.search"/>
 			<item value="com.orm"/>
 		</list>
 		<list key="artifactId">
+			<item value="my_SearchEngine"/>
 			<item value="orm-project"/>
 		</list>
 		<list key="projectNameTemplate">

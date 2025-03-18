@@ -670,3 +670,48 @@ Mar 07, 2025 17:08:07.52 [10568:7424:0307/170807.527:ERROR:connection_factory_im
 Mar 07, 2025 17:08:56.61 [10568:3232:0307/170856.613:ERROR:device_event_log_impl.cc(199)] [17:08:56.613] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
 Mar 07, 2025 17:09:26.22 [10568:7424:0307/170926.222:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
 Mar 07, 2025 17:09:28.27 [10568:7424:0307/170928.279:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+Mar 08, 2025 19:17:04.12 NEW SESSION
+Mar 08, 2025 19:17:04.12 [4620:6784:0308/191704.116:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 08, 2025 19:17:04.32 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 08, 2025 19:17:04.33 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 08, 2025 19:17:25.95 [4620:6784:0308/191725.958:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 08, 2025 19:18:08.88 [4620:6784:0308/191808.881:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 08, 2025 19:19:32.25 [4620:6784:0308/191932.255:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 08, 2025 19:23:25.25 [4620:6784:0308/192325.255:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 08, 2025 19:30:57.01 [4620:6784:0308/193057.018:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Mar 10, 2025 15:10:52.24 NEW SESSION
+Mar 10, 2025 15:10:52.26 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 10, 2025 15:10:52.26 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 10, 2025 15:10:52.27 [3416:11564:0310/151052.278:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 10, 2025 15:11:20.29 [3416:11564:0310/151120.292:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 10, 2025 15:12:18.97 [3416:11564:0310/151218.971:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 10, 2025 15:13:51.88 [3416:11564:0310/151351.885:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Mar 10, 2025 20:21:32.54 NEW SESSION
+Mar 10, 2025 20:21:32.55 [1840:7448:0310/202132.543:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 10, 2025 20:21:34.16 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 10, 2025 20:21:34.19 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 10, 2025 20:21:54.67 [1840:7448:0310/202154.673:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 10, 2025 20:22:43.47 [1840:7448:0310/202243.478:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 10, 2025 20:24:11.08 [1840:7448:0310/202411.088:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 10, 2025 20:27:31.14 [1840:7448:0310/202731.144:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+Mar 10, 2025 20:34:05.09 [1840:7448:0310/203405.091:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+Mar 18, 2025 11:51:38.07 NEW SESSION
+Mar 18, 2025 11:51:38.09 [1756:12360:0318/115138.073:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 18, 2025 11:51:39.29 Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 18, 2025 11:51:39.29 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Mar 18, 2025 11:51:59.31 [1756:12360:0318/115159.318:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 18, 2025 11:52:06.90 [1756:2952:0318/115206.900:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 18, 2025 11:52:07.33 [1756:2952:0318/115207.337:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 18, 2025 11:52:07.63 [1756:2952:0318/115207.636:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 18, 2025 11:52:07.99 [1756:2952:0318/115207.998:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 18, 2025 11:52:08.30 [1756:2952:0318/115208.300:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Mar 18, 2025 11:52:43.19 [1756:12360:0318/115243.190:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 18, 2025 11:54:05.06 [1756:12360:0318/115405.063:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+Mar 18, 2025 11:54:39.05 [1756:12360:0318/115439.057:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -102
+Mar 18, 2025 11:54:39.50 [1756:12360:0318/115439.507:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -100
+Mar 18, 2025 11:55:11.16 [1756:12360:0318/115511.168:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -102
+Mar 18, 2025 11:56:10.91 [1756:12360:0318/115610.912:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -100
